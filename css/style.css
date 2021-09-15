@@ -1,0 +1,77 @@
+html {
+    font-size: 16px;
+}
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", YuGothic, "ヒラギノ角ゴ ProN W3", Hiragino Kaku Gothic ProN, Arial, "メイリオ", Meiryo, sans-serif;
+}
+header h1{
+    width:1000px;
+    margin:auto;
+    font-size:2rem;
+    padding:10px 0;
+}
+header #topimg{
+    height:400px;
+    background-image:url("../img/top.jpg");
+    background-size:cover;
+    background-position:center center;
+}
+main .fullsize-headline {
+    background-color: #625330;
+    padding: 20px 0;
+}
+main .fullsize-headline h2 {
+    width: 1000px;
+    margin: auto;
+    color: white;
+    font-size: 2rem;    
+}
+main section {
+    width: 1000px;
+    margin: auto;
+}
+main section h3 {
+    color: #625330;
+    font-size: 1.8rem;
+    text-align: center;
+    border-bottom: solid 3px #625330;
+    padding-bottom: 20px;
+    margin-top: 60px;
+}
+main section h4 {
+    color: #625330;
+    font-size: 1.5rem;
+    margin-top: 40px;
+}
+main section p {
+    line-height: 1.8rem;
+    margin: 40px 50px 0;
+}
+main section ul {
+    margin: 40px 50px 0;
+}
+main section li {
+    margin: 12px 0 0;
+}
+main section figure {
+    margin-top: 40px;
+}
+main section figure img {
+    width: 100%;    
+}
+footer {
+    background-color: #625330;
+    color: white;
+    padding: 60px 0;
+    margin-top: 80px;
+}
+footer h2 {
+    width: 1000px;
+    margin: auto;
+    font-size: 1.3rem;
+}
+footer p {
+    width: 1000px;
+    margin: 20px auto 0;
+    line-height: 1.8rem;
+}
